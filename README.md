@@ -19,5 +19,5 @@
 
 ---
 
-## 📊 Stats
+## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misanga1225&theme=gruvbox)
