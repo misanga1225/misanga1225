@@ -15,9 +15,9 @@
 
 ### Interests & Studying
 - **Security**: Reverse Engineering & Low-level Analysis.
-![Security](https://skillicons.dev/icons?i=linux)
 - **AI / ML**: Machine Learning & Deep Learning.
-![ML](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow)
+
+![ML](https://skillicons.dev/icons?i=linux,sklearn,pytorch,tensorflow)
 
 ---
 
