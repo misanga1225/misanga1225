@@ -1,6 +1,27 @@
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=google-tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Security](https://img.shields.io/badge/-Security-E00010?style=for-the-badge&logo=hack-the-box&logoColor=white)
+# Profile
+
+- I am a 3rd-year university student studying Informatics.
+- Currently focusing on software development and exploring various technologies.
+
+---
+
+## Tech Stack
+
+### Core Languages
+![Tech Stack](https://skillicons.dev/icons?i=rust,go,typescript)
+
+### Infrastructure & Cloud
+![Tech Stack](https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws)
+
+### Interests & Studying
+- **Security**: Reverse Engineering & Low-level Analysis.
+- **AI / ML**: Machine Learning & Deep Learning.
+
+---
+
+## 📊 Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misanga1225&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=misanga1225&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misanga1225&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=misanga1225&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=misanga1225&theme=gruvbox&utcOffset=9)
