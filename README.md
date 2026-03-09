@@ -8,16 +8,19 @@
 ## Tech Stack
 
 ### Core Languages
-![Tech Stack](https://skillicons.dev/icons?i=rust,go,typescript)
+![Tech Stack](https://skillicons.dev/icons?i=rust,go,typescript,python)
 
-### Infrastructure & Cloud
-![Tech Stack](https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws)
+### Infrastructure & DevOps
+![Infra](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform)
+
+### Cloud Platforms
+![Cloud](https://skillicons.dev/icons?i=gcp,aws)
 
 ### Interests & Studying
 - **Security**: Reverse Engineering & Low-level Analysis.
 - **AI / ML**: Machine Learning & Deep Learning.
 
-![ML](https://skillicons.dev/icons?i=linux,sklearn,pytorch,tensorflow)
+![ML](https://skillicons.dev/icons?i=linux,sklearn,pytorch,tensorflow,wandb)
 
 ---
 
