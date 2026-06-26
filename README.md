@@ -3,17 +3,17 @@
 ### Core Languages
 ![Tech Stack](https://skillicons.dev/icons?i=rust,go,typescript,python)
 
-### Infrastructure & DevOps
-![Infra](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform)
+### Infrastructure
+![Infra](https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,cloudflare,aws,gcp,githubactions,terraform&perline=5)
 
-### Cloud Platforms
-![Cloud](https://skillicons.dev/icons?i=gcp,aws)
+### Databases
+![DB](https://skillicons.dev/icons?i=sqlite,postgres,mysql,mongodb)
 
-### Interests & Studying
-- **Security**: Reverse Engineering
-- **AI / ML**: Machine Learning & Deep Learning
+### Studying
+- **Security**: Reverse Engineering, Web Security
+- **AI / ML**: Machine Learning, Deep Learning
 
-![ML](https://skillicons.dev/icons?i=linux,sklearn,pytorch,tensorflow,wandb)
+![ML](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,wandb)
 
 ---
 
