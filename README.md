@@ -11,7 +11,3 @@
 
 ### Studying
 - **Networking**: Packet Analysis (Wireshark), Network Emulation (containerlab, EVE-NG)
-- **Security**: Reverse Engineering, Web Security
-- **AI / ML**: Machine Learning, Deep Learning
-
-![ML](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,wandb)
